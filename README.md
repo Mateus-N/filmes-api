@@ -1,0 +1,1 @@
+API desenvolvida durante o estudo do curso .NET 6: Criando uma WEB API.
